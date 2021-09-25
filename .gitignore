@@ -1,0 +1,4 @@
+*.xml
+*.mf
+*.properties
+.nbproject
