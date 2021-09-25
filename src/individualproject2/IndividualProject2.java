@@ -1,10 +1,8 @@
 package individualproject2;
 
-import java.io.*;
-import java.util.*;
 import java.sql.*;
 import org.json.simple.*;
-import org.json.simple.parser.*;
+
 /**
  *
  * @author bhf31
